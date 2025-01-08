@@ -30,4 +30,4 @@ Tensorflow - сеть
 ![загружено (2)](https://github.com/user-attachments/assets/5ed9c1b1-c8d4-41c6-b250-3adbaec8a2fb)
 
 # Шум
-[загружено (3)](https://github.com/user-attachments/assets/d418dcab-794c-4842-82d2-8598586b84f1)
+![загружено (3)](https://github.com/user-attachments/assets/d418dcab-794c-4842-82d2-8598586b84f1)
